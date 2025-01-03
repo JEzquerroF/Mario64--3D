@@ -7755,25 +7755,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2884796768463439669, guid: 19ce9fbb72b61a24fa55a3fb6411c3a3, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3434482332513816397, guid: 19ce9fbb72b61a24fa55a3fb6411c3a3, type: 3}
       propertyPath: m_Name
       value: Canvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 4729662400681418822, guid: 19ce9fbb72b61a24fa55a3fb6411c3a3, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4729662400681418822, guid: 19ce9fbb72b61a24fa55a3fb6411c3a3, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4729662400681418822, guid: 19ce9fbb72b61a24fa55a3fb6411c3a3, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: -1820
       objectReference: {fileID: 0}
     - target: {fileID: 6531886189973970402, guid: 19ce9fbb72b61a24fa55a3fb6411c3a3, type: 3}
       propertyPath: m_MarioLifeController
